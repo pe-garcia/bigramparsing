@@ -30,3 +30,9 @@ would be.
 “quick blue” 1
 
 “blue hare” 1
+
+## Test Cases
+This repo has 4 different text files of varying lengths and formatting that can be used to test this program.
+
+### Compilation: javac bigram.java
+### Execution: java bigram
